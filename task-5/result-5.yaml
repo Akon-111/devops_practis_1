@@ -1,0 +1,6 @@
+NAMESPACE   NAME         READY   STATUS    RESTARTS   AGE
+a-adxamov   nginx1       1/1     Running   0          2m13s
+a-adxamov   nginx2       1/1     Running   0          5m52s
+default     nginx-test   1/1     Running   0          2d16h
+m-fayziev   nginx1       1/1     Running   0          17h
+m-fayziev   nginx2       1/1     Running   0          17h
